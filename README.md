@@ -28,9 +28,15 @@ This project recreates the **"My Orders"** Android screen UI provided in the ass
 com.oceanx.agency
 │
 ├── adapter
+│   └── OrderAdapter.kt
+│
 ├── model
+│   └── Order.kt
+│
 ├── utils
-├── MainActivity
+│   └── DummyData.kt
+│
+└── MainActivity.kt
 
 ## Assignment Requirements Covered
 ✔ Android Native (Kotlin + XML)  
@@ -41,4 +47,4 @@ com.oceanx.agency
 ✔ Clean UI structure  
 
 ## Author
-Mohammad Shahnawaz
+Mohammad Shahnawaz khan
