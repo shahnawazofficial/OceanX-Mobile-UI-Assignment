@@ -25,6 +25,7 @@ This project recreates the **"My Orders"** Android screen UI provided in the ass
 
 ## Project Structure
 
+```text
 com.oceanx.agency
 │
 ├── adapter
@@ -37,6 +38,7 @@ com.oceanx.agency
 │   └── DummyData.kt
 │
 └── MainActivity.kt
+```
 
 ## Assignment Requirements Covered
 ✔ Android Native (Kotlin + XML)  
